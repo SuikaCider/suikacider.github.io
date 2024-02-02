@@ -38,7 +38,7 @@ social:
   email: suikas.cider@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://www.reddit.com/user/SuikaCider # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://styles.redditmedia.com/t5_17sd7e/styles/profileIcon_89dnn0eg4hz41.png?width=256&height=256&crop=256:256,smart&s=cd4eafa0ffda9a839909aea7bb538e37c5e4f80d
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
