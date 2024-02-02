@@ -6,9 +6,9 @@
 # type: twitter
 #  icon: "fa-brands fa-x-twitter"
 
-- type: Reddit
-   icon: 'fab fa-reddit'   # icons powered by <https://fontawesome.com/>
-   url:  'https://www.reddit.com/user/SuikaCider'  
+- type: reddit
+   icon: 'fa fa-reddit'   # icons powered by <https://fontawesome.com/>
+   url:  'https://www.reddit.com/user/SuikaCider'
 
 - type: email
   icon: "fas fa-envelope"
