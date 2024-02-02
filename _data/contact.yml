@@ -7,7 +7,7 @@
 #  icon: "fa-brands fa-x-twitter"
 
 - type: reddit
-  icon: 'fa fa-reddit'   # icons powered by <https://fontawesome.com/>
+  icon: 'fab fa-reddit'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.reddit.com/user/SuikaCider'
 
 - type: email
