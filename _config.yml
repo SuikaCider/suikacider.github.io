@@ -137,7 +137,7 @@ kramdown:
 collections:
   tabs:
     output: true
-    sort_by: ascending
+    sort_by: order
 
 defaults:
   - scope:
