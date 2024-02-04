@@ -1,6 +1,6 @@
 ---
 title: 0.11 Start Here
-date: 2024-01-02 17:32:SS +/-0800
+date: 2024-01-01 17:32:SS +/-0800
  17:33:SS +/-0800
 categories: [French Pronunciation, 0 Start Here]
 tags: [french, pronunciation]      # TAG names should always be lowercase
