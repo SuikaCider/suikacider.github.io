@@ -1,8 +1,8 @@
 ---
-title: 0.13 The Blueprints of Sound
-date: 0000-05-03 00:00:00 +/-0800
+title: 0.12 How to Practice Pronuncation
+date: 0000-05-02 00:00:00 +/-0800
 categories: [French Pronunciation, 0 Start Here]
 tags: [french, pronunciation]     # TAG names should always be lowercase
 ---
 
-The Blueprints of Sound
+How to Practice Pronuncation
