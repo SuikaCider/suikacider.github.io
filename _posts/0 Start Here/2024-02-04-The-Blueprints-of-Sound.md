@@ -1,8 +1,8 @@
 ---
-title: The Blueprints of Sound
-date: 2024-02-04 17:32:SS +/-TTTT
-categories: [French Pronunciation, Start Here]
-tags: [French] [Pronunciation] [IPA]     # TAG names should always be lowercase
+title: 0.12 The Blueprints of Sound
+date: 2024-02-04 17:32:SS +/-0800
+categories: [French_Pronunciation, Start_Here]
+tags: [french] [pronunciation] [ipa]     # TAG names should always be lowercase
 ---
 
-TEST 2
+The Blueprints of Sound
