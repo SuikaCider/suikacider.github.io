@@ -8,12 +8,12 @@ pin: true
 
 Hi! If you don't know anything about pronunciation, or if my dedicated pronunciation pages look at bit scary, here's where you should start.
 
-## What we'll cover in this 101 section:
+## What we'll cover in this 101 series:
 
-I write with the assumption that readers know nothing about pronunciation, but your life will be easier if you skim the following before diving into a particular language's pronunciation guide.
+I've written all of my "guides" with the assumption that readers know nothing about phonetics, but your life will be easier if you skim the following before diving into a particular language's pronunciation guide.
 
-- [1. What pronunciation is, bio-mechanically](https://suikacider.github.io/posts/What-Pronunciation-Is-Biomechanically/)
-- [2. Suprasegmentals, or the melodies that connect words](https://suikacider.github.io/posts/Suprasegmentals-the-melody-of-an-accent/)
+- [1. Phonetics, or the biomechanics of pronunciation](https://suikacider.github.io/posts/Phonetics-Biomechanics-of-Pronunciation/)
+- [2. Suprasegmentals, or the melody behind the accent](https://suikacider.github.io/posts/Suprasegmentals-the-melody-of-an-accent/)
 - [3. How to practice pronunciation](https://suikacider.github.io/posts/How-to-Practice-Pronunciation/)
 - [4. How good of an accent do you need, anyway?](https://suikacider.github.io/posts/how-good-of-an-accent-do-you-need/)
 
