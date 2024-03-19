@@ -27,7 +27,7 @@ Talking about sounds in this way might seem weird at first, but doing so comes w
 
 That out of the way:
 
-![Watermelon](https://w7.pngwing.com/pngs/526/147/png-transparent-fruit-salad-free-content-sad-watermelon-s-food-triangle-computer.png){: width="20" height="20" }
+![Watermelon](https://w7.pngwing.com/pngs/526/147/png-transparent-fruit-salad-free-content-sad-watermelon-s-food-triangle-computer.png){: width="40" height="40" }
 
 ## The "recipes" of consonants
 Now that the scene is set, we're ready to talk about consonants. Whether you're speaking Cantonese or Klingon, every consonant boils down to the same three basic things:
