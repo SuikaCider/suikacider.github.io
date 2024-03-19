@@ -9,7 +9,7 @@ tags: [pronunciation, ipa, consonants, vowels]     # TAG names should always be 
  {: .prompt-info }
 
 
-[Places of Articulation](https://scriptsource.org/cms/sites/s/media/database/ssproto/entries/vg/ka/vgkauynhzh_Face.png){: width="400" height="700" }
+![Places of Articulation](https://scriptsource.org/cms/sites/s/media/database/ssproto/entries/vg/ka/vgkauynhzh_Face.png){: width="400" height="700" }
 _A map of your speech organ_
 
 The Blueprints of Sound
