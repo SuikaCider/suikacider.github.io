@@ -42,4 +42,4 @@ And I basically want to create a happy medium between those two extremes.
 
 My explanations will be accurate and technical, but above all they will be  *practical*. I'll give you the concrete steps you need to take to get from sound A to sound B, but I won't assume that you are coming into my writing with any background knowledge about pronunciation.
 
-So, anyway, let's get started: [1. What pronunciation is, bio-mechanically](https://suikacider.github.io/posts/What-Pronunciation-Is-Biomechanically/)
+So, anyway, let's get started: [What pronunciation is, bio-mechanically](https://suikacider.github.io/posts/What-Pronunciation-Is-Biomechanically/)
