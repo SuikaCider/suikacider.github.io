@@ -6,7 +6,7 @@ tags: [french, pronunciation, projects]     # TAG names should always be lowerca
 pin: true
 ---
 
-> Hi! I'm [Sui](https://www.reddit.com/user/SuikaCider/), and I spend way too much time talking about language learning on Reddit. I've decided to compile some of my more "useful" brain dumps into static webpages, mostly as a means of procrastination, and this is one of those brain dumps.
+> *Hi! I'm [Sui](https://www.reddit.com/user/SuikaCider/), and I spend way too much time talking about language learning on Reddit. I've decided to compile some of my more "useful" brain dumps into static webpages, mostly as a means of procrastination, and this is one of those brain dumps.*
 
 This brain dump is an in-depth look at French pronunciation. We'll get into:
 - [What pronunciation is, biomechanically](https://suikacider.github.io/posts/Start-Here/)
