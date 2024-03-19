@@ -21,9 +21,9 @@ This in mind, in each of my pronunciation guides, I am basically contrasting Eng
 
 Talking about sounds in this way might seem weird at first, but doing so comes with three major benefits:
 
-1. Each sound in the IPA is associated with a specific name and symbol — there's no funny business like GH sounding one way in *tough*, another in *ghost*, and another still in *neighbor*.
-2. IPA symbols are consistent across languages — there's no funny business like English's C sounding like K or S while Pinyin's C sounding like "ts"
-3. Each IPA symbol's name is a concrete "recipe" that will tell you (almost) step-by-step how to pronounce a given sound
+1. **Consistency within languages**: Each sound in the IPA is associated with a specific name and symbol — there's no funny business like GH sounding one way in *tough*, another in *ghost*, and another still in *neighbor*.
+2. **Consistency between languages**: IPA symbols are quite consistent across languages — there's no funny business like English's C sounding like K or S but Pinyin's C sounding like "ts"
+3. **Clarity of instruction**: Each IPA symbol's name is a concrete "recipe" that will tell you (almost) step-by-step how to pronounce a given sound
 
 That out of the way:
 
@@ -33,5 +33,22 @@ That out of the way:
 ### [Element 1] Place of articulation
 ![Places of Articulation](https://scriptsource.org/cms/sites/s/media/database/ssproto/entries/vg/ka/vgkauynhzh_Face.png){: width="400" height="700" }
 _A map of your speech organ_
+
+### [Element 2] Manner of Articulation
+
+
+
+### [Element 3] Voicing
+
+
+### Funny business you can figure about later
+
+Combining the above three things gives you the basic recipe for a given sound, called the "phonemic" representation. You can think of these "phonemic" representations as being kind of like headwords—the only form you'll see in the dictionary is "eat", but, in practice, "eat" actually has several forms: eats, eating, ate, eaten. 
+
+When we want to show these more specific "other" forms of a specific sound, we can use what are called [diacritic markers](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet#Diacritics_and_prosodic_notation) to show things like [(lip) roundedness](https://en.wikipedia.org/wiki/Roundedness) and [tongue shape](https://en.wikipedia.org/wiki/Tongue_shape). While not always needed, this information can be helpful because one basic sound may have multiple possible realizations in another language, called [allophones](https://en.wikipedia.org/wiki/Allophone).
+
+- Phonemic transcriptions use forward slashes: /p/ is the "basic" P sound
+- Phonetic transcriptions use brackets: [P^h^] refers to a P pronounced with a lot of expelled air (compare the P in *pot* vs the one in *spot*)
+
 
 ## The "recipes" of vowels
