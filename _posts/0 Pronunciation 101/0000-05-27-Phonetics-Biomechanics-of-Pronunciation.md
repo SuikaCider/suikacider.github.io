@@ -29,21 +29,31 @@ That out of the way:
 
 
 ## The "recipes" of consonants
+Now that the scene is set, we're ready to talk about consonants. Whether you're speaking Cantonese or Klingon, every consonant boils down to the same three basic things:
+
+1. Place of articulation → loosely speaking, which part of your mouth connects with which part of your mouth
+2. Manner of articulation → what happens to air as it leaves your mouth
+3. Voicing → place your fingers (lightly) on your neck, then say *shhhh* and *zhhhh* out loud
 
 ### [Element 1] Place of articulation
+*If you prefer watching, check out [this 6min video by Artifexian](https://www.youtube.com/watch?v=xMEFr7ghMTg).*
+
+
+
+
 ![Places of Articulation](https://scriptsource.org/cms/sites/s/media/database/ssproto/entries/vg/ka/vgkauynhzh_Face.png){: width="400" height="700" }
 _A map of your speech organ_
 
 ### [Element 2] Manner of Articulation
-
+*If you prefer watching, check out [this 5min video by Artifexian](https://www.youtube.com/watch?v=J3IO5K5ZGB4).*
 
 
 ### [Element 3] Voicing
-
+*If you prefer watching, check out [this 6.5min video by Artifexian](https://www.youtube.com/watch?v=jkfSA4_DCfs).*
 
 ### Funny business you can figure about later
 
-Combining the above three things gives you the basic recipe for a given sound, called the "phonemic" representation. You can think of these "phonemic" representations as being kind of like headwords—the only form you'll see in the dictionary is "eat", but, in practice, "eat" actually has several forms: eats, eating, ate, eaten. 
+Combining the above three things gives you the basic recipe for a given sound, called the "phonemic" representation. You can think of these "phonemic" representations as being kind of like headwords—the only form you'll see in the dictionary is "eat", but, in practice, "eat" actually has several forms: eats, eating, ate, eaten.
 
 When we want to show these more specific "other" forms of a specific sound, we can use what are called [diacritic markers](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet#Diacritics_and_prosodic_notation) to show things like [(lip) roundedness](https://en.wikipedia.org/wiki/Roundedness) and [tongue shape](https://en.wikipedia.org/wiki/Tongue_shape). While not always needed, this information can be helpful because one basic sound may have multiple possible realizations in another language, called [allophones](https://en.wikipedia.org/wiki/Allophone).
 
@@ -52,3 +62,5 @@ When we want to show these more specific "other" forms of a specific sound, we c
 
 
 ## The "recipes" of vowels
+
+[Artifexian's introduction to vowels](https://www.youtube.com/watch?v=nhOhZ5HSd54)
