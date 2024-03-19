@@ -27,13 +27,16 @@ Talking about sounds in this way might seem weird at first, but doing so comes w
 
 That out of the way:
 
+>~ § ~
+{: text-align: center; }
+
 
 ## The "recipes" of consonants
 Now that the scene is set, we're ready to talk about consonants. Whether you're speaking Cantonese or Klingon, every consonant boils down to the same three basic things:
 
-1. Place of articulation → loosely speaking, which part of your mouth connects with which part of your mouth
-2. Manner of articulation → what happens to air as it leaves your mouth
-3. Voicing → place your fingers (lightly) on your neck, then say *shhhh* and *zhhhh* out loud
+1. **Place of articulation** → loosely speaking, which part of your mouth connects with which part of your mouth
+2. **Manner of articulation** → what happens to air as it leaves your mouth
+3. **Voicing** → place your fingers (lightly) on your neck, then say *shhhh* and *zhhhh* out loud
 
 ### [Element 1] Place of articulation
 *If you prefer watching, check out [this 6min video by Artifexian](https://www.youtube.com/watch?v=xMEFr7ghMTg).*
@@ -57,8 +60,8 @@ Combining the above three things gives you the basic recipe for a given sound, c
 
 When we want to show these more specific "other" forms of a specific sound, we can use what are called [diacritic markers](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet#Diacritics_and_prosodic_notation) to show things like [(lip) roundedness](https://en.wikipedia.org/wiki/Roundedness) and [tongue shape](https://en.wikipedia.org/wiki/Tongue_shape). While not always needed, this information can be helpful because one basic sound may have multiple possible realizations in another language, called [allophones](https://en.wikipedia.org/wiki/Allophone).
 
-- Phonemic transcriptions use forward slashes: /p/ is the "basic" P sound
-- Phonetic transcriptions use brackets: [P^h^] refers to a P pronounced with a lot of expelled air (compare the P in *pot* vs the one in *spot*)
+- **Phonemic transcriptions** use forward slashes: /p/ is the "basic" P sound
+- **Phonetic transcriptions** use brackets: [P^h^] refers to a P pronounced with a lot of expelled air (compare the P in *pot* vs the one in *spot*)
 
 
 ## The "recipes" of vowels
