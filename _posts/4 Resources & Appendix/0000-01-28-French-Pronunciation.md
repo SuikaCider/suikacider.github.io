@@ -17,9 +17,9 @@ This brain dump is an in-depth look at French pronunciation. We'll get into:
 More specifically, each section will be organized as follows:
 - Sounds that are shared between French and English
 - Sounds that are similar, but require small adjustments
-- Sounds that are new, and that you’ll need to learn
+- Sounds that are new, and that you’ll thus need to learn
 - English sounds that don’t exist in French, and that you should thus avoid making
 
 That out of the way:
 1. If you already know about the International Phonetic Alphabet (IPA), you can jump right into the French sections listed above
-2. If you don't know what the IPA is, or feel like you'd benefit from a Pronunciation 101 type thing, start from []*What pronunciation is, biomechanically*](https://suikacider.github.io/posts/Start-Here/)
+2. If you don't know what the IPA is, or feel like you'd benefit from a Pronunciation 101 type thing, start from [*What pronunciation is, biomechanically*](https://suikacider.github.io/posts/Start-Here/)
