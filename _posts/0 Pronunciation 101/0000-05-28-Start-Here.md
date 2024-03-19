@@ -3,6 +3,7 @@ title: 0.11 Start Here
 date: 0000-05-28 00:00:00 +/-0800
 categories: [0 Start Here]
 tags: [pronunciation]      # TAG names should always be lowercase
+pin: true
 ---
 
 I've created this page because I think most pronunciation guides on the internet fall into one of two categories:
