@@ -27,9 +27,7 @@ Talking about sounds in this way might seem weird at first, but doing so comes w
 
 That out of the way:
 
->~ § ~
-{: text-align: center; }
-
+---
 
 ## The "recipes" of consonants
 Now that the scene is set, we're ready to talk about consonants. Whether you're speaking Cantonese or Klingon, every consonant boils down to the same three basic things:
