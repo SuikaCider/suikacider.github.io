@@ -6,6 +6,6 @@ tags: [pronunciation, ipa, consonants, vowels]     # TAG names should always be 
 ---
 
 > There's a lot of information on this page. You do not need to memorize any of it to read my pronunciation guides. Each page of the main document has been written assuming that you don't know anything about phonetics beyond what I explicitly tell you.
-{: .prompt-info }
+ {: .prompt-info }
 
 The Blueprints of Sound
