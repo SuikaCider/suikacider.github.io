@@ -6,7 +6,7 @@ order: 4
 
 Hi! I haven't thought about this page yet.
 
-Disclaimer: I am not a linguist; just somebody who is passionate about languages and spends more time planning than doing
+Disclaimer: I am not a linguist. This is more a place where I document my journey through languages and stuff.
 
 Languages:
 - Japanese ([JLPT N1√](https://en.wikipedia.org/wiki/Japanese-Language_Proficiency_Test), [preparing for BJT J1](https://en.wikipedia.org/wiki/Business_Japanese_Proficiency_Test))
