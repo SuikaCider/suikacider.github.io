@@ -20,9 +20,6 @@ More specifically, each section will be organized as follows:
 - Sounds that are new, and that you’ll need to learn
 - English sounds that don’t exist in French, and that you should thus avoid making
 
-I've created this page because I think most pronunciation guides on the internet fall into one of two categories:
-
-- Overly generic — Sounds are described as being "roughly like English's ___", and that lacks the information you need to actually fix your pronunciation
-- Overly complex — The information is accurate, but you basically need a degree in phonology to find and understand it
-
-And I want to strike a happy medium between those two extremes. My explanations will be accurate and technical, but practical. I'll cover exactly how two sounds differ and what you need to do, biomechanicaly, to make a particular French sound... but I won't assume that you know anything about phonetics.
+That out of the way:
+1. If you already know about the International Phonetic Alphabet (IPA), you can jump right into the French sections listed above
+2. If you don't know what the IPA is, or feel like you'd benefit from a Pronunciation 101 type thing, start from []*What pronunciation is, biomechanically*](https://suikacider.github.io/posts/Start-Here/)
