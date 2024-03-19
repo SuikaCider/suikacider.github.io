@@ -1,7 +1,7 @@
 ---
 title: 「PIN」Pronunciation 101
 date: 0000-06-28 00:00:00 +/-0800
-categories: [0 Start Here]
+categories: [0 Start Here, pronunciation]
 tags: [pronunciation]      # TAG names should always be lowercase
 pin: true
 ---
