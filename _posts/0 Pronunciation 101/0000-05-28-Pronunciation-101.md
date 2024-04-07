@@ -20,21 +20,21 @@ I've written all of my "guides" with the assumption that readers know nothing ab
 
 ## What we'll cover in each language's pronunciation guide
 
-As discussed in post 1 above, sounds are kind of like lego constructions: put blocks A B and C together in a particular order and you get a particular sound. It's helpful to become familiar with those "lego blocks" because there are very, very few sounds that are actually completely foreign. More often than not, they're simply new arrangements of familiar parts.
+As discussed in post 1 above, sounds are kind of like recipes or lego constructions: put blocks A B and C together in a particular order and you get a particular sound. It's helpful to become familiar with those "lego blocks" because there are very, very few sounds that are actually completely foreign. More often than not, seemingly "new" sounds are simply new arrangements of familiar parts.
 
-In each guide, I simply start with what will be familiar for (General American) English speakers and then walk through the specific steps you need to take to get from [English sound] to [foreign sound].
+In each guide, then, all I'm doing is starting with the sounds that will be familiar for (General American) English speakers and then walking through the specific steps you need to take to get from [English sound] to [foreign sound].
 
 I organize this information as follows:
 - Sounds that are shared between English and [other language]
 - Sounds that are similar between English and [other language], but need to be tweaked
-- Sounds that only exist in [other language], so English speakers should learn
-- Sounds that only exist in English, so you should avoid them when speaking [other language]
+- Sounds that only exist in [other language], so should thus be learned to speak [other language]
+- Sounds that only exist in English, so should thus be avoided when speaking [other language]
 
 
 ## Why I've chosen to organize my pronunciation guides this way
 I find that most pronunciation guides on the internet fall into one of two categories:
 
-- *Overly generic* → Sounds are described as being *"roughly like English's _ _ _ "*. This is helpful in a pinch, but it lacks the concrete details you need to learn to correctly make the sound in question.
+- *Overly generic* → Sounds are described as being *"roughly like English's _ _ _"*. This kind of explanation is helpful in a pinch, but it lacks the concrete details you need to learn to correctly make the sound you're working on.
 
 - *Overly complex* → The information is concrete and accurate, but the author assumed that only other linguists/nerds would be interested in this content, so they also assume that you know what things like *retroflex (concave apical)* mean. Plus, academic papers and discussion between linguistics aren't necessarily intended to be instructional.
 
