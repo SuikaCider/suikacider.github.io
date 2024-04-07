@@ -67,13 +67,20 @@ While the place of articulation determines where airflow is manipulated in your 
 * **Affricates** → Sounds that start off as plosives but then transition into being a fricative. Examples include the /tʃ/ (ch) in *cheese* or the /dʒ/ in *joy*. As these sounds end in a fricative, you can sustian them indefinitely: *chhhhhhhhhhhhheese!*
 * **Nasals** → Sounds in which air comes out of your mouth and nose simultaneously. Place your fingers lightly on the outside of your nostrils and then say *had* and *hand*. Again, you can sustain these sounds indefinitely: *Mmmmmmmmmm! Looks good!*
 * **Flaps/Trills** → Flaps are like very fast plosives — one articulator taps another very lightly and quickly. This often happens to T sounds in the middle of words: *butter* becomes *budder*. Trills, on the other hand, are a string of flaps in quick succession — when you blow a raspberry, you are actually making a "bilabial (two-lip) trill"!
-* **Vowels** → Vowels are not a manner of articulation, but you might think of them as being the *lack* of one. Because you don't "manipulate" the sound as you do in the above way with vowels, they result in clean sounds (no turbulence as with fricatives) that can be sustained indefinitely. Furthermore, this relative inner-mouth freedom means that you can "bend" vowels in a very clean fashion! Say *Ahhhhhhhh-eeeeeeeehhhh--ooooooohhhh* with one continuous breath.
+* **Vowels** → Vowels are not a manner of articulation, but you might think of them as being the *lack* of one. Because you don't "manipulate" the sound as you do in the above way with vowels, they result in clean sounds (no turbulence as with fricatives) that can be sustained indefinitely. Furthermore, this relative inner-mouth freedom means that you can "bend" vowels in a very clean fashion! Say *ahhhhhhhh-eeeeeeeehhhh--ooooooohhhh* with one continuous breath.
 * **Liquids/Rhotics** → Loosely speaking, L and R sounds. These sounds are special in that they fall somewhat "between" a vowel and consonant, but are closer to consonants. This flexible nature lets them add "color" to the consonant or vowel they precede. Say *ahhhh*, and notice how the vowel quality shifts a bit when you then slowly say *are* or *all*. Note that English has a quite unique R sound, and this causes trouble for both people learning English (it's a new sound) and for English speakers learning other languages (the R they're used to likely doesn't exist in the target language!)
 * **Semivowels/Glides** → Loosely speaking, W and Y sounds. These sounds are like vowels, but shorter, and occur in tandem with a vowel: semivowels follow a vowel (y is a vowel in *joey* [notice how long it is] but a semivowel in *joy* [notice how short it is]), while glides precede a vowel (y in *yes* or w in *west*). I personally think of these sounds as being like "hammering on" or "pulling off" a guitar chord.
 
 
 ### [Element 3] Voicing
 *If you prefer watching, check out [this 6.5min video by Artifexian](https://www.youtube.com/watch?v=jkfSA4_DCfs).*
+
+Voicing simply refers to whether or not your vocal chords are active. Again, you've already got an intuitive mastery of how this works.
+
+1. Place two fingers lightly on your neck, as if you're taking your pulse
+2. Say *zzzzz* → notice that vibration? /Z/ is what's called a "voiced" consonant.
+3. Say *sssss* → notice how the vibration disappeared? /S/ is what's called an "unvoiced" consonant.
+4. This same vibration/no vibration concept applies to other consonant pairs, too: p/b, k/g, t/d, etc
 
 ### Funny business you can figure about later
 
